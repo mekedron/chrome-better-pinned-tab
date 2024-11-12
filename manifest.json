@@ -1,0 +1,16 @@
+{
+  "name": "Better Pinned Tabs",
+  "description": "Prevents pinned a tab from being closed accidentally!",
+  "version": "1.0.0",
+  "author": "chatgpt",
+  "homepage_url": "https://github.com/mekedron/chrome-better-pinned-tab",
+  "manifest_version": 3,
+  "permissions": ["tabs", "sessions"],
+  "icons": {
+    "128": "images/icon_128.png"
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "action": {}
+}
