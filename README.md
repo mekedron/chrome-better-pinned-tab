@@ -11,5 +11,5 @@ Or you can install it from the [Chrome Web Store](https://chromewebstore.google.
 -------------
 
 This extension was inspired:
-https://github.com/gustavotrott/brave-lock-pinned-tabs
-https://github.com/gabrielmaldi/chrome-lock-tab
+- https://github.com/gustavotrott/brave-lock-pinned-tabs
+- https://github.com/gabrielmaldi/chrome-lock-tab
